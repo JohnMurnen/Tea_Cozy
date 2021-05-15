@@ -24,15 +24,15 @@
 }
 
 main {
-    padding-top: 65px;
+    margin-top: 65px;
 }
-
 
 /*Mission Section*/
 #missionContainer {
     background-image: url("Images/img-mission-background.webp");
     width: 1200px;
     height: 700px;
+    margin: 0 auto;
 }
   
 
@@ -40,6 +40,7 @@ main {
 #featuredTeaContainer {
     width: 1000px;
     height: auto;
+    margin: 0 auto;
 }
 
 .row {
@@ -56,6 +57,7 @@ main {
 /*Locations Section*/
 #locationsContainer {
     background-image: url("Images/img-locations-background.webp");
+    margin: 0 auto;
 }
 
 .address {
