@@ -29,4 +29,11 @@ h5 {
     height: 69px;
     position: fixed;
     border-bottom: 1px solid seashell;
+    margin-top: 0;
+}
+
+.header li {
+    list-style: none;
+    display: inline-block;
+    text-decoration: underline;
 }
