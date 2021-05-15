@@ -3,7 +3,7 @@
     font-size: 22px;
     color: seashell;
     background-color: black;
-    opacity: 1;
+    opacity: 0.9;
     text-align: center;
 }
 
@@ -48,8 +48,6 @@ h5 {
     background-image: url("Images/img-mission-background.webp");
     width: 1200px;
     height: 700px;
-    margin: 0 auto;
-    position: relative;
 }
   
 
@@ -57,7 +55,6 @@ h5 {
 #featuredTeaContainer {
     width: 1000px;
     height: auto;
-    margin: 0 auto;
 }
 
 .row {
@@ -74,7 +71,6 @@ h5 {
 /*Locations Section*/
 #locationsContainer {
     background-image: url("Images/img-locations-background.webp");
-    margin: 0 auto;
     height: 500px;
 }
 
