@@ -22,3 +22,11 @@ p{
 h5 {
     font-size: 12px;
 }
+
+
+.header {
+    width: 100%;
+    height: 69px;
+    position: fixed;
+    border-bottom: 1px solid seashell;
+}
