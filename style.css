@@ -55,7 +55,7 @@ html, body {
     border:0px;
   }
   
-  /*Jumbotron Section*/
+  /*Mission Section*/
   
   .jumbotron {
     background-color: #fff;
@@ -79,15 +79,9 @@ html, body {
     margin-bottom: 0;
   }
   
-  /*Banner Section*/
-  .banner {
-    background-color: #333;
-    color: #fff;
-    padding: 20px;
-    text-align: center;
-  }
+
   
-  /*Expertise Section*/
+  /*Featured Tea Section*/
   .cards {
     background-color: #ffc200;
     display: flex;
@@ -104,6 +98,19 @@ html, body {
     padding: 20px;
     background-color: #ffc200;
     margin: 0;
+    text-align: center;
+  }
+
+/*Locations Section*/
+  .address {
+    display: inline-block;
+  }
+
+
+  .banner {
+    background-color: #333;
+    color: #fff;
+    padding: 20px;
     text-align: center;
   }
   
