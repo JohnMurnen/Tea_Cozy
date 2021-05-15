@@ -37,3 +37,10 @@ h5 {
     display: inline-block;
     text-decoration: underline;
 }
+
+/*Mission Section*/
+#missionContainer {
+    background-image: url("Images/img-mission-background.webp");
+    width: 1200px;
+    height: 700px;
+}
