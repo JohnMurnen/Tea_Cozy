@@ -23,10 +23,13 @@
     text-align: right;
 }
 
+main {
+    padding-top: 65px;
+}
+
 
 /*Mission Section*/
 #missionContainer {
-    margin-top: 200px;
     background-image: url("Images/img-mission-background.webp");
     width: 1200px;
     height: 700px;
