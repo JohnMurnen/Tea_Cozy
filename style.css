@@ -21,9 +21,8 @@ html, body {
   /*Header Section*/
   
     .header {
-        padding: 30px 0px 40px;
-        margin-left: 50px;
-        margin-right: 50px;
+        padding-top: 24px;
+        padding-bottom: 23px;
         position: fixed;
         border-bottom: 1px solid seashell;
     }
@@ -32,6 +31,7 @@ html, body {
         list-style: none;
         display: inline-block;
         text-decoration: underline;
+        text-align: right;
     }
   
     .header li a {
