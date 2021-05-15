@@ -7,6 +7,7 @@
     text-align: center;
     }
 
+
 /*Header Section*/
 .header {
     width: 100%;
@@ -22,14 +23,14 @@
     text-align: right;
 }
 
+
 /*Mission Section*/
 #missionContainer {
     margin-top: 69px;
+    background-image: url("Images/img-mission-background.webp");
 }
-
   
 
-  
 /*Featured Tea Section*/ 
 .row {
     display: inline-flex;
@@ -41,11 +42,17 @@
     height: 200px;
 }
 
+
 /*Locations Section*/
+.locationsContainer {
+    background-image: url("Images/img-locations-background.webp");
+}
+
 .address {
     display: inline-block;
 }
-  
+
+
 /*Footer Section*/
 .footer {
     padding: 60px 0px;
