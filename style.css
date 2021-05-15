@@ -3,7 +3,6 @@
     font-size: 22px;
     color: seashell;
     background-color: black;
-    opacity: 0.9;
     text-align: center;
 }
 
@@ -24,7 +23,7 @@ h5 {
 }
 
 main{
-    padding: 69px;
+    padding-top: 69px;
 }
 
 
@@ -73,7 +72,6 @@ main{
 
 .address {
     display: inline-block;
-    opacity: 1;
 }
 
 
