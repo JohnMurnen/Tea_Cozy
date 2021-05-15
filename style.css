@@ -45,9 +45,6 @@ h5 {
     width: 1200px;
     height: 700px;
     margin: 0 auto;
-    text-align: center;
-    line-height: 700px;
-    position: relative;
 }
   
 
@@ -55,7 +52,6 @@ h5 {
 #featuredTeaContainer {
     width: 1000px;
     height: auto;
-    margin: 0 auto;
 }
 
 .row {
@@ -72,7 +68,6 @@ h5 {
 /*Locations Section*/
 #locationsContainer {
     background-image: url("Images/img-locations-background.webp");
-    margin: 0 auto;
     height: 500px;
 }
 
