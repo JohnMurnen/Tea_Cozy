@@ -6,24 +6,11 @@ html, body {
     opacity: 0.9;
     text-align: center;
     }
-  
-  /*Sizing*/
-  
-.container {
-    margin: 0 auto;
-}
-  
-.spacer {
-    max-width: 1200px;
-    margin: auto;
-}
-  
-  /*Header Section*/
-  
+
+/*Header Section*/
 .header {
     width: 100%;
-    padding-top: 24px;
-    padding-bottom: 23px;
+    height: 69px;
     position: fixed;
     border-bottom: 1px solid seashell;
 }
@@ -34,13 +21,8 @@ html, body {
     text-decoration: underline;
     text-align: right;
 }
-  
-.header li a {
-    margin:0;
-    border:0px;
-}
-  
-  /*Mission Section*/
+
+/*Mission Section*/
 #missionContainer {
     margin-top: 69px;
 }
@@ -48,7 +30,7 @@ html, body {
   
 
   
-  /*Featured Tea Section*/ 
+/*Featured Tea Section*/ 
 .row {
     display: inline-flex;
     justify-content: space-between;
