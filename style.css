@@ -54,6 +54,11 @@ html, body {
     justify-content: space-between;
 }
 
+.row img {
+    width: 300px;
+    height: 200px;
+}
+
 /*Locations Section*/
 .address {
     display: inline-block;
