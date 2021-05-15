@@ -9,55 +9,56 @@ html, body {
   
   /*Sizing*/
   
-    .container {
-        margin: 0 auto;
-    }
+.container {
+    margin: 0 auto;
+}
   
-    .spacer {
-        max-width: 1200px;
-        margin: auto;
-    }
+.spacer {
+    max-width: 1200px;
+    margin: auto;
+}
   
   /*Header Section*/
   
-    .header {
-        padding-top: 24px;
-        padding-bottom: 23px;
-        position: fixed;
-        border-bottom: 1px solid seashell;
-    }
+.header {
+    padding-top: 24px;
+    padding-bottom: 23px;
+    position: fixed;
+    border-bottom: 1px solid seashell;
+}
   
-    .header li {
-        list-style: none;
-        display: inline-block;
-        text-decoration: underline;
-        text-align: right;
-    }
+.header li {
+    list-style: none;
+    display: inline-block;
+    text-decoration: underline;
+    text-align: right;
+}
   
-    .header li a {
-        margin:0;
-        border:0px;
-    }
+.header li a {
+    margin:0;
+    border:0px;
+}
   
   /*Mission Section*/
-
+#missioncontainer {
+    margin-top: 69px;
+}
 
   
 
   
   /*Featured Tea Section*/ 
-    .row {
-        display: inline-flex;
-        justify-content: space-between;
-    }
+.row {
+    display: inline-flex;
+    justify-content: space-between;
+}
 
 /*Locations Section*/
-    .address {
-        display: inline-block;
-    }
+.address {
+    display: inline-block;
+}
   
-  /*Footer Section*/
-    .footer {
-        padding: 60px 0px;
-
-    }
+/*Footer Section*/
+.footer {
+    padding: 60px 0px;
+}
