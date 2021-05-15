@@ -8,6 +8,18 @@
     }
 
 
+h3 {
+    font-size: 18px;
+}
+
+h4 {
+    font-size: 14px;
+}
+
+h5 {
+    font-size: 12px;
+}
+
 /*Header Section*/
 .header {
     width: 100%;
