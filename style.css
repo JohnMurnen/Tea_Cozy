@@ -29,11 +29,53 @@ h5 {
     height: 69px;
     position: fixed;
     border-bottom: 1px solid seashell;
-    margin-top: 0;
+    text-align: right;
 }
 
 .header li {
     list-style: none;
     display: inline-block;
     text-decoration: underline;
+}
+
+/*Mission Section*/
+#missionContainer {
+    background-image: url("Images/img-mission-background.webp");
+    width: 1200px;
+    height: 700px;
+}
+  
+
+/*Featured Tea Section*/ 
+#featuredTeaContainer {
+    width: 1000px;
+    height: auto;
+}
+
+.row {
+    display: inline-flex;
+    justify-content: space-between;
+}
+
+.row img {
+    width: 300px;
+    height: 200px;
+}
+
+
+/*Locations Section*/
+#locationsContainer {
+    background-image: url("Images/img-locations-background.webp");
+    height: 500px;
+}
+
+.address {
+    display: inline-block;
+    opacity: 1;
+}
+
+
+/*Footer Section*/
+.footer {
+    height: 200px;
 }
