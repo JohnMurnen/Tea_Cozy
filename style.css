@@ -26,15 +26,12 @@ h5 {
 
 /*Header Section*/
 .header {
-    width: 100%;
     height: 69px;
     position: fixed;
     border-bottom: 1px solid seashell;
 }
   
 .header li {
-    list-style: none;
-    display: inline-block;
     text-decoration: underline;
 }
 
@@ -42,21 +39,16 @@ h5 {
 /*Mission Section*/
 #missionContainer {
     background-image: url("Images/img-mission-background.webp");
-    width: 1200px;
-    height: 700px;
-    margin: 0 auto;
 }
   
 
 /*Featured Tea Section*/ 
 #featuredTeaContainer {
-    width: 1000px;
-    height: auto;
+
 }
 
 .row {
-    display: inline-flex;
-    justify-content: space-between;
+
 }
 
 .row img {
@@ -68,16 +60,13 @@ h5 {
 /*Locations Section*/
 #locationsContainer {
     background-image: url("Images/img-locations-background.webp");
-    height: 500px;
 }
 
 .address {
-    display: inline-block;
-    opacity: 1;
+
 }
 
 
 /*Footer Section*/
 .footer {
-    height: 200px;
 }
