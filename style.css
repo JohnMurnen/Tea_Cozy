@@ -34,7 +34,6 @@ h5 {
 }
 
 .header li {
-    list-style: none;
     display: inline-block;
     text-decoration: underline;
 }
@@ -54,6 +53,11 @@ h5 {
     width: 1000px;
     height: auto;
     margin: 0 auto;
+}
+
+.row {
+    display: inline-flex;
+    justify-content: space-between;
 }
 
 .row img {
