@@ -21,6 +21,7 @@ html, body {
   /*Header Section*/
   
 .header {
+    width: 100%;
     padding-top: 24px;
     padding-bottom: 23px;
     position: fixed;
