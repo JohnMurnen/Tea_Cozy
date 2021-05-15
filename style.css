@@ -26,12 +26,18 @@
 
 /*Mission Section*/
 #missionContainer {
-    margin-top: 69px;
     background-image: url("Images/img-mission-background.webp");
+    width: 1200px;
+    height: 700px;
 }
   
 
 /*Featured Tea Section*/ 
+#featuredTeaContainer {
+    width: 1000px;
+    height: auto;
+}
+
 .row {
     display: inline-flex;
     justify-content: space-between;
@@ -44,7 +50,7 @@
 
 
 /*Locations Section*/
-.locationsContainer {
+#locationsContainer {
     background-image: url("Images/img-locations-background.webp");
 }
 
