@@ -15,17 +15,17 @@
     position: fixed;
     border-bottom: 1px solid seashell;
 }
+
+.header ul {
+    float: right;
+}
   
 .header li {
     list-style: none;
     display: inline-block;
     text-decoration: underline;
-    text-align: right;
 }
 
-main {
-    margin-top: 65px;
-}
 
 /*Mission Section*/
 #missionContainer {
@@ -33,6 +33,9 @@ main {
     width: 1200px;
     height: 700px;
     margin: 0 auto;
+    text-align: center;
+    line-height: 700px;
+    position: relative;
 }
   
 
@@ -58,6 +61,7 @@ main {
 #locationsContainer {
     background-image: url("Images/img-locations-background.webp");
     margin: 0 auto;
+    height: 500px;
 }
 
 .address {
@@ -67,5 +71,5 @@ main {
 
 /*Footer Section*/
 .footer {
-    padding: 60px 0px;
+    height: 200px;
 }
