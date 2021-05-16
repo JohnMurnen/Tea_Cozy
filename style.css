@@ -1,3 +1,16 @@
+* {
+    margin: 0px;
+    font-family: Helvetica;
+    font-size: 22px;
+    color: seashell;
+    background-color: black;
+    text-align: center;
+}
+
 .row img {
     width: 300px;
+}
+
+.container {
+    display: flex;
 }
