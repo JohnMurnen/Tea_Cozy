@@ -36,12 +36,12 @@ main{
     position: fixed;
     border-bottom: 1px solid seashell;
     text-align: right;
+    align-items: center;
 }
 
 .header ul {
     display: inline-flex;
     justify-content: flex-end;
-    align-items: center;
 }
 
 .header li {
@@ -63,7 +63,7 @@ main{
 /*Featured Tea Section*/ 
 #featuredTeaContainer {
     width: 1000px;
-    height: auto;
+    height: 1200px;
     margin: 0 auto;
 }
 
@@ -80,7 +80,7 @@ main{
 }
 
 .address {
-    display: inline-block;
+    display: inline-flex;
     width: 300px;
 }
 
