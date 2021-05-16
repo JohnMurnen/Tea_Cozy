@@ -39,7 +39,9 @@ main{
 }
 
 .header ul {
-    float: right;
+    display: inline-flex;
+    justify-content: flex-end;
+
 }
 
 .header li {
