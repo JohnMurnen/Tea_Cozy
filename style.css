@@ -41,14 +41,13 @@ main{
 .header ul {
     display: inline-flex;
     justify-content: flex-end;
-
+    align-items: center;
 }
 
 .header li {
     display: inline-block;
     text-decoration: underline;
-    padding-right: 10px;
-    align-items: center;
+    padding-right: 30px;
 }
 
 
