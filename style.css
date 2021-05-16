@@ -4,6 +4,8 @@
     color: seashell;
     background-color: black;
     text-align: center;
+    border: 0;
+    margin: 0;
 }
 
 h3 {
@@ -35,6 +37,7 @@ main{
     border-bottom: 1px solid seashell;
     text-align: right;
     align-items: center;
+    display: flex;
 }
 
 .header li {
@@ -48,7 +51,7 @@ main{
     background-image: url("Images/img-mission-background.webp");
     width: 1200px;
     height: 700px;
-    margin: 0 auto;
+    display: flex;
 }
 
 
@@ -56,7 +59,7 @@ main{
 #featuredTeaContainer {
     width: 1000px;
     height: 700px;
-    margin: 0 auto;
+    display: flex;
 }
 
 .row img {
@@ -69,15 +72,15 @@ main{
 #locationsContainer {
     background-image: url("Images/img-locations-background.webp");
     height: 500px;
+    display: flex;
 }
 
 .address {
     width: 300px;
-    height: 300px;
 }
-
 
 /*Footer Section*/
 .footer {
     height: 200px;
+    display: flex;
 }
