@@ -38,6 +38,10 @@ main{
     text-align: right;
 }
 
+.header ul {
+    float: right;
+}
+
 .header li {
     display: inline-block;
     text-decoration: underline;
