@@ -35,21 +35,18 @@ main{
     height: 69px;
     position: fixed;
     border-bottom: 1px solid seashell;
-    text-align: right;
-    align-items: center;
     display: flex;
 }
 
 .header li {
     text-decoration: underline;
-    padding-right: 30px;
 }
 
 
 /*Mission Section*/
 #missionContainer {
     background-image: url("Images/img-mission-background.webp");
-    width: 1200px;
+    width: 100%;
     height: 700px;
     display: flex;
 }
@@ -57,7 +54,7 @@ main{
 
 /*Featured Tea Section*/ 
 #featuredTeaContainer {
-    width: 1000px;
+    width: 100%;
     height: 700px;
     display: flex;
 }
@@ -72,6 +69,7 @@ main{
 #locationsContainer {
     background-image: url("Images/img-locations-background.webp");
     height: 500px;
+    width: 100%;
     display: flex;
 }
 
@@ -82,5 +80,6 @@ main{
 /*Footer Section*/
 .footer {
     height: 200px;
+    width: 100%;
     display: flex;
 }
