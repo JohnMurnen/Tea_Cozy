@@ -37,11 +37,8 @@ main{
     border-bottom: 1px solid seashell;
     text-align: right;
     align-items: center;
-}
-
-.header ul {
     display: inline-flex;
-    justify-content: flex-end;
+    justify-content: space-between;
 }
 
 .header li {
@@ -77,11 +74,12 @@ main{
 #locationsContainer {
     background-image: url("Images/img-locations-background.webp");
     height: 500px;
+    display: inline-flex;
 }
 
 .address {
-    display: inline-flex;
     width: 300px;
+    height: 300px;
 }
 
 
