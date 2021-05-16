@@ -15,16 +15,13 @@ p {
 }
 
 .container {
-    margin: 20 auto;
+    margin: 0 auto;
 }
 
 #missionContainer {
     background-image: url("Images/img-mission-background.webp");
     width: 1200px;
     height: 700px;
-    background-repeat: no-repeat;
-    background-attachment: fixed;
-    background-position: center;
 }
 
 .flex {
