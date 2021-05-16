@@ -12,6 +12,7 @@ p {
 
 .row img {
     width: 300px;
+    height: 200px;
 }
 
 .container {
@@ -24,6 +25,22 @@ p {
     height: 700px;
 }
 
+#featuredTeaContainer {
+    width: 1000px;
+}
+
+.address {
+    heigth: 300px;
+    width: 300px;
+
 .flex {
     display: flex;
+}
+
+.footer {
+    height: 200px;
+}
+
+#copyright {
+    text-align: left;
 }
