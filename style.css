@@ -26,21 +26,18 @@ p {
 }
 
 #featuredTeaContainer {
-    width: 1000px;
+
+}
+
+#locationsContainer {
+    background-image: url("Images/img-locations-background.webp");
+    height: 500px;
 }
 
 .address {
-    heigth: 300px;
+    height: 300px;
     width: 300px;
 
 .flex {
     display: flex;
-}
-
-.footer {
-    height: 200px;
-}
-
-#copyright {
-    text-align: left;
 }
