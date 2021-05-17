@@ -49,7 +49,7 @@ h5 {
 
 #locationsContainer {
     background-image: url("Images/img-locations-background.webp");
-    height: 400px;
+    height: 500px;
     width: 1200px;
     display: flex;
     justify-content: center;
