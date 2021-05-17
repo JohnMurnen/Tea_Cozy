@@ -26,11 +26,10 @@ p {
 }
 
 #featuredTeaContainer {
-
+    width: 1000px;
 }
 
 #locationsContainer {
-    background-image: url("Images/img-locations-background.webp");
     height: 500px;
 }
 
