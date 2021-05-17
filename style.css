@@ -36,6 +36,11 @@ h5 {
     margin: 0 auto;
 }
 
+.header {
+    height: 69px;
+    position: fixed;
+}
+
 #missionContainer {
     background-image: url("Images/img-mission-background.webp");
     width: 1200px;
