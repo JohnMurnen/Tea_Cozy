@@ -46,6 +46,12 @@ h5 {
     width: 1000px;
 }
 
+#teaOfTheMonthHeader {
+    display: flex;
+    height: 100px;
+    flex-direction: column;
+    justify-content: space-around;
+}
 
 #locationsContainer {
     background-image: url("Images/img-locations-background.webp");
