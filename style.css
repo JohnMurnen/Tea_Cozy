@@ -46,9 +46,15 @@ h5 {
     width: 1000px;
 }
 
+.row {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
 #teaOfTheMonthHeader {
     display: flex;
-    height: 100px;
+    height: 150px;
     flex-direction: column;
     justify-content: space-around;
 }
