@@ -114,22 +114,20 @@ h5 {
 }
 
 #locationsHeader {
-    background-image: url("Images/img-locations-background.webp");
     height: 100px;
     display: flex;
     justify-content: center;
     align-items: flex-end;
     padding-bottom: 15px;
-    background-color: none;
+    opacity: 0;
 }
 
 #addressesContainer {
-    background-image: url("Images/img-locations-background.webp");
     display: flex;
     justify-content: center;
     align-items: flex-start;
     height: 400px;
-    background-color: none;
+    opacity: 0;
 }
 
 .address {
