@@ -42,6 +42,11 @@ h5 {
     width: 100%;
     display: flex;
     justify-content: space-between;
+    border-bottom: 1px solid seashell;
+}
+
+.header ul {
+    display: inline-block;
 }
 
 .header img {
