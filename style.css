@@ -83,7 +83,7 @@ h5 {
 
 #featuredTeaContainer {
     width: 1000px;
-    height: 600px;
+    height: 650px;
     display: flex;
     flex-direction: column;
     justify-content: space-around;
@@ -123,6 +123,7 @@ h5 {
 }
 
 #addressesContainer {
+    background-image: url("Images/img-locations-background.webp");
     display: flex;
     justify-content: center;
     align-items: flex-start;
