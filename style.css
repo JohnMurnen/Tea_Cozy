@@ -64,7 +64,7 @@ h5 {
 
 .tea h4 {
     margin-top: 10px;
-    margin-bottom: 10px;
+    margin-bottom: 5px;
 }
 
 #locationsContainer {
@@ -79,6 +79,7 @@ h5 {
     justify-content: center;
     align-items: flex-end;
     padding-bottom: 15px;
+    background-color: none;
 }
 
 #addressesContainer {
@@ -86,6 +87,7 @@ h5 {
     justify-content: center;
     align-items: flex-start;
     height: 400px;
+    background-color: none;
 }
 
 .address {
