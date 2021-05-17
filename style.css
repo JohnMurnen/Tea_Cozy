@@ -43,9 +43,10 @@ h5 {
     display: flex;
     justify-content: space-between;
     border-bottom: 1px solid seashell;
+    align-items: center;
 }
 
-.header ul {
+.header ul li {
     display: inline-block;
 }
 
