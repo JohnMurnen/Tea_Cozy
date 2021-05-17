@@ -39,6 +39,13 @@ h5 {
 .header {
     height: 69px;
     position: fixed;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+}
+
+.main {
+    margin-top: 69px;
 }
 
 #missionContainer {
