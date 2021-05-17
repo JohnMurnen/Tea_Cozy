@@ -40,6 +40,13 @@ h5 {
     background-image: url("Images/img-mission-background.webp");
     width: 1200px;
     height: 700px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+#missionHeader {
+    height: 100px;
 }
 
 #featuredTeaContainer {
