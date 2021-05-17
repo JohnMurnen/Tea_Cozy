@@ -130,6 +130,10 @@ h5 {
     opacity: 0;
 }
 
+#locations {
+    opacity: 1;
+}
+
 .address {
     height: 300px;
     width: 300px;
@@ -138,6 +142,7 @@ h5 {
     justify-content: space-around;
     margin-left: 20px;
     margin-right: 20px;
+    opacity: 1;
 }
 
 .flex {
