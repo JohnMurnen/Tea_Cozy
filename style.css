@@ -49,6 +49,12 @@ p {
     display: flex;
     flex-direction: column;
     justify-content: space-around;
-    padding-top: 20px;
-    padding-bottom: 20px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+#copyright {
+    text-align: left;
+    padding-bottom: 30px;
+    padding-left: 20px;
 }
