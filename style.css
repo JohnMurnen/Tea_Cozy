@@ -51,9 +51,20 @@ h5 {
     background-image: url("Images/img-locations-background.webp");
     height: 500px;
     width: 1200px;
+}
+
+#locationsHeader {
+    height: 100px;
     display: flex;
     justify-content: center;
-    align-items: center;
+    align-items: flex-end;
+}
+
+#addressesContainer {
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    height: 400px;
 }
 
 .address {
