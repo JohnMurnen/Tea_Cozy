@@ -44,6 +44,11 @@ h5 {
     justify-content: space-between;
 }
 
+.header img {
+    height: 50px;
+    margin-left: 10px;
+}
+
 .main {
     margin-top: 69px;
 }
