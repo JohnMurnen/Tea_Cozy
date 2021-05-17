@@ -47,12 +47,13 @@ h5 {
 }
 
 .header ul {
-    margin-right: 10px;
     font-size: 22px;
+    text-decoration: underline;
 }
 
 .header ul li {
     display: inline-block;
+    margin-right: 10px;
 }
 
 .header img {
