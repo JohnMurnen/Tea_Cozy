@@ -114,6 +114,7 @@ h5 {
 }
 
 #locationsHeader {
+    background-image: url("Images/img-locations-background.webp");
     height: 100px;
     display: flex;
     justify-content: center;
