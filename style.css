@@ -46,6 +46,11 @@ h5 {
     align-items: center;
 }
 
+.header ul {
+    margin-right: 10px;
+    font-size: 22px;
+}
+
 .header ul li {
     display: inline-block;
 }
