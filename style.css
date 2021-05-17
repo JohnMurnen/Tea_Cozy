@@ -4,6 +4,7 @@
     color: seashell;
     background-color: black;
     text-align: center;
+    box-sizing: border-box;
 }
 
 p {
