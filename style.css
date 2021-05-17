@@ -44,6 +44,9 @@ h5 {
 
 #featuredTeaContainer {
     width: 1000px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
 }
 
 .row {
@@ -56,13 +59,6 @@ h5 {
 .tea {
     margin-left: 10px;
     margin-right: 10px;
-}
-
-#teaOfTheMonthHeader {
-    display: flex;
-    height: 150px;
-    flex-direction: column;
-    justify-content: space-around;
 }
 
 #locationsContainer {
