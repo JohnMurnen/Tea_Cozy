@@ -23,6 +23,7 @@ p {
     background-image: url("Images/img-mission-background.webp");
     width: 1200px;
     height: 700px;
+    display: block;
 }
 
 #featuredTeaContainer {
@@ -32,6 +33,7 @@ p {
 #locationsContainer {
     width: 1200px;
     height: 500px;
+    display: block;
 }
 
 .address {
@@ -45,4 +47,6 @@ p {
 
 .footer {
     height: 200px;
+    display: block;
+    margin: 0 auto;
 }
