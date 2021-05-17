@@ -48,12 +48,12 @@ h5 {
 
 .header ul {
     font-size: 22px;
-    text-decoration: underline;
-    margin-right: 10px;
 }
 
 .header ul li {
     display: inline-block;
+    text-decoration: underline;
+    margin-right: 10px;
 }
 
 .header img {
