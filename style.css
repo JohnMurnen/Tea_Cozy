@@ -47,6 +47,10 @@ h5 {
 
 #missionHeader {
     height: 100px;
+    width: 1200px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
 }
 
 #featuredTeaContainer {
