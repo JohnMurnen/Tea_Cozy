@@ -58,6 +58,7 @@ h5 {
     display: flex;
     justify-content: center;
     align-items: flex-end;
+    bottom-padding: 15px;
 }
 
 #addressesContainer {
